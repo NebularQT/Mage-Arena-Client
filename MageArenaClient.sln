@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MageArenaClient", "MageArenaClient\MageArenaClient.csproj", "{B3E533CA-8814-4F96-8925-78897BC7348F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E533CA-8814-4F96-8925-78897BC7348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E533CA-8814-4F96-8925-78897BC7348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E533CA-8814-4F96-8925-78897BC7348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E533CA-8814-4F96-8925-78897BC7348F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E86594B-060F-4942-97FD-2A8DA86ADE04}
+	EndGlobalSection
+EndGlobal
