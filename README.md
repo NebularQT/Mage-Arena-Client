@@ -7,6 +7,12 @@ run the game one time, then you should see a BepinEx\Plugins\
 and put the dll in there then start your game and press
 ";" to toggle the menu.
 
+Warning! you can toggle/activate things OUTSIDE of games, i suggest toggling
+the meun off if you are going to type in the chat at all before starting
+
+also i apologise for the bad keybinds, if you want to customise them 
+just clone the repo and change them in InputHandler, NoClip and InfiniteHealh
+
 ---------------------------
 this includes:
 
