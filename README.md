@@ -10,14 +10,14 @@ and put the dll in there then start your game and press
 ---------------------------
 this includes:
 
-Esp
-Movement Modifications
-Instant Smiting
-Instant Spells
-Custom Spells
-Infinite stats
-No Clip
-Size/Scale changer
-Instant win (client side)
+Esp,
+Movement Modifications,
+Instant Smiting,
+Instant Spells,
+Custom Spells,
+Infinite stats,
+No Clip,
+Size/Scale changer,
+Instant win (client side),
 and more.
 ----------------------------
